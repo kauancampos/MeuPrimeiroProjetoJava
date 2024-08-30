@@ -57,7 +57,7 @@ public class DesafioConclusaoDeCurso {
                 System.out.println("Saldo atual: " + saldo);
                 System.out.println("================================");
             } else if (escolha == 5){
-                System.out.println("Programa encerrado! Atpé mais.");
+                System.out.println("Programa encerrado! Até mais.");
             } else{
                 System.out.println("Opção inválida. Digite novamente.");
             }
